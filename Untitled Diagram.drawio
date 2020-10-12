@@ -1,6 +1,6 @@
-<mxfile modified="2020-10-12T19:34:57.651Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="YXoetvkrl3QcP_w7fv3h" version="13.7.9" type="github">
+<mxfile modified="2020-10-12T19:43:26.615Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-LTol15TDaLIUOELWI-T" version="13.7.9" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
-    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
           <mxGeometry x="130" y="320" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="WjdJllKKXcpfsNg5wRYy-128" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-128.png" vertex="1" parent="1">
-          <mxGeometry x="585" y="310" width="128" height="128" as="geometry" />
+          <mxGeometry x="581.1800000000001" y="329" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WjdJllKKXcpfsNg5wRYy-130" value="Herramientas de programación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="350" width="160" height="30" as="geometry" />

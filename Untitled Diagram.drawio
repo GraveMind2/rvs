@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-12T20:15:08.038Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9AGUDgniA-HNzuoN4-Ag" version="13.7.9" type="github">
+<mxfile modified="2020-10-12T20:15:23.497Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="7FCQcdiNpN4L_UtUSunH" version="13.7.9" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1221" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="acN4gz7JGneFuQeG339R-130" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/checked-www-domain-window-128.png" parent="1" vertex="1">
           <mxGeometry x="515" y="469" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="acN4gz7JGneFuQeG339R-132" value="Cliente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="acN4gz7JGneFuQeG339R-132" value="Cliente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="610" y="449" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WjdJllKKXcpfsNg5wRYy-127" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-128.png" vertex="1" parent="1">
